@@ -1,4 +1,4 @@
-## Hi!! I'm Ana D'arc 👋, I am a computer science student, addicted to books, comics and animes, geek in my spare time and i love cooking, i like to always be learning new things, solving challenges and games that involve reasoning are some of my hoobies. 🕹💻📚
+## Hi!! 👋
 
 <div align="center">
   <a href="https://github.com/Anad4rc">
