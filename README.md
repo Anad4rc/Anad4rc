@@ -1,4 +1,4 @@
-# Hi!! 👋 People, I'm Ana D'arc
+# Hello, World__I'm Ana D'arc 👋
 ### 🖥 Estudante de ciencia da computação
 ### 📚
 
@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anad4rc&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 </div>
   
-  ## Linguagens que estou estudando atualmente:
+  ## Linguagens que estou estudando atualmente
 <div style="display: inline_block"><br>
   <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -16,7 +16,7 @@
  <img  align="center" alt="Ana-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
 
-##
+## Connect with me
 <div>
   <a href="https://www.instagram.com/anna_d4rc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/ana-d-arc-20205221a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
