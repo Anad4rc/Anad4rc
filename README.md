@@ -1,10 +1,14 @@
-# Hi!! 👋
+# Hi!! 👋 People, I'm Ana D'arc
+### 🖥 Estudante de ciencia da computação
+### 📚
+
 
 <div align="center">
   <a href="https://github.com/Anad4rc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anad4rc&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anad4rc&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
+  
+  ## Linguagens que estou estudando atualmente:
 <div style="display: inline_block"><br>
   <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
