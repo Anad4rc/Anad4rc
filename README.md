@@ -3,7 +3,7 @@
 ### 🎯 Currently studying Harvard CS50 and studying algorithms
 ### 📚 reading lover
 ### 🐾 cats mother
-### 🖖 geek in his spare time(animes, movies and series)
+### 🖖 geek in spare time
 ### 🎬 I like to always be learning new things (I'm currently venturing into felt sewing and 3d modeling)
 
 #
