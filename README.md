@@ -1,4 +1,4 @@
-# Hello, World 🌎 __ I'm Ana D'arc 👋
+# Hi there !! I'm Ana D'arc 👋
 ### 💻 computer science student
 ### 🎯 Currently studying Harvard CS50 and studying algorithms
 ### 📚 reading lover
