@@ -1,7 +1,5 @@
 ## ``` Hello World !!``` I'm Ana 🌎👋
 
-#
-
 <img align="right" alt="Ana-tardis" height="100" width="100" src="https://cdn.discordapp.com/attachments/937684872590401559/1001557265259712612/output-onlinegiftools.gif">
 
 #### 👩‍💻 computer science student
@@ -18,6 +16,9 @@
 </div>
   
   ### I'm currently studying
+  
+  # 
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -27,9 +28,14 @@
 </div>
 
 ### Connect with me
+
+#
+
 <div>
-  <a href="https://www.linkedin.com/in/ana-d-arc-20205221a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://codepen.io/Ana_D" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/ana-d-arc-20205221a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://mail.google.com/mail" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.twitch.tv/code_kenobi" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+   <a href="https://codepen.io/Ana_D" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a> 
 </div>
   
  ![Snake animation](https://github.com/Anad4rc/Anad4rc/blob/output/github-contribution-grid-snake.svg)
