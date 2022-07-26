@@ -6,13 +6,9 @@
 
 #### 👩‍💻 computer science student
 #### 📚 reading lover
-#### 🐾 cats mother
-#### 🖖 geek in spare time
 #### 🎬 I like to always be learning new things
 #### 🐧 I'm currently studying algorithms
  
-  
-  
 #
 
 <div align="center">
