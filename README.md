@@ -2,10 +2,11 @@
 
 <img align="right" alt="Ana-tardis" height="100" width="100" src="https://cdn.discordapp.com/attachments/937684872590401559/1001557265259712612/output-onlinegiftools.gif">
 
-#### 👩‍💻 computer science student
-#### 📚 reading lover
-#### 🎬 I like to always be learning new things
-#### 🐧 I'm currently studying algorithms
+### 👩‍💻 computer science student
+### 📚 reading lover
+### 🎬 I like to always be learning new things
+### 🐧 I'm currently studying algorithms
+### 🐱 Cat mother
  
 #
 
