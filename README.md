@@ -4,9 +4,10 @@
 
 ### 👩‍💻 computer science student
 ### 📚 reading lover
-### 🎬 I like to always be learning new things
-### 🐧 I'm currently studying algorithms
+### 🎨 I like to always be learning new things
+### 🐧 I'm currently studying algorithms and programming logic
 ### 🐱 Cat mother
+### 🖖 geek in spare time
  
 #
 
