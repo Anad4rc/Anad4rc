@@ -1,4 +1,4 @@
-## ``` Hello World !!``` I'm Ana 🌎👋
+## Hello World !! I'm Ana 🌎👋
 <p>
 <img align="right" alt="Ana-tardis" height="100" width="100" src="https://cdn.discordapp.com/attachments/937684872590401559/1001557265259712612/output-onlinegiftools.gif"> 
 </p>
@@ -23,11 +23,12 @@
   # 
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ana-C" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
   <img align="center" alt="Ana-Git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
+  <img align="center" alt="Ana-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+          
 
           
           
