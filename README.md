@@ -1,4 +1,4 @@
-## Hello World !! I'm Ana 🌎👋
+## Hey there! my name is Ana 👋
 <p>
 <img align="right" alt="Ana-tardis" height="100" width="100" src="https://cdn.discordapp.com/attachments/937684872590401559/1001557265259712612/output-onlinegiftools.gif"> 
 </p>
