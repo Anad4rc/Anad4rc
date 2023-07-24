@@ -47,6 +47,6 @@
    <a href="https://codepen.io/Ana_D" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a> 
 </div>
   
- ![Snake animation](https://github.com/Anad4rc/Anad4rc/blob/output/github-contribution-grid-snake.svg)
+
 
 
