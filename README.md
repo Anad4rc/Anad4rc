@@ -13,9 +13,10 @@
 #
 
 <div align="center">
-  <a href="https://github.com/Anad4rc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anad4rc&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anad4rc&theme=material-palenight"/>
+<a href="https://github.com/Anad4rc">
+<img height="180em" src=https://github-readme-stats.vercel.app/api?username=Anad4rc&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true/>
+<img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Anad4rc&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact>
+   
 </div>
   
   ### I'm currently studying
@@ -42,9 +43,10 @@
 
 <div>
   <a href="https://www.linkedin.com/in/ana-d-arc-20205221a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="https://mail.google.com/mail" target="_blank" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:anadarcode@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.twitch.tv/code_kenobi" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
-   <a href="https://codepen.io/Ana_D" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a> 
+  <a href="https://codepen.io/Ana_D" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a> 
+  <a href="https://www.instagram.com/darcode.java/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
   
 ![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
